@@ -26,6 +26,7 @@ Hello world from Elixir
 ## Getting Started
 
 - [Basic types](/getting_started/basic_types.exs)
+- [Basic operators](getting_started/basic_operators.exs)
 
 ## Mix and OTP
 
