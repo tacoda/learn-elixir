@@ -28,6 +28,7 @@ Hello world from Elixir
 - [Basic types](/getting_started/basic_types.exs)
 - [Basic operators](getting_started/basic_operators.exs)
 - [Pattern matching](getting_started/pattern_matching.exs)
+- [Case, cond, and if](getting_started/case_cond_and_if.exs)
 
 ## Mix and OTP
 
